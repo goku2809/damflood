@@ -1,1 +1,6 @@
 # damflood
+My Idea for this hackathon is about the "Failure of Dams", since there are many dams in India and their failure can lead to large losses in property as well as life this problem should be taken care.
+I plan to start from scratch and make use of the evaluation methods and create a system such that it automatically does the evaluation.
+The sensors are implemented and real time monitoring is done for the dam and these values are sent to the cloud. The condition of the dam is then found out from these values from the cloud and in case imminent dam failure is detected then a warning is sent to the surrounding through any medium or even through the locales mobile phone number, So that they can vacate.
+I plan to implement the inspection mainly in four areas after a brief study about the dam failure at the 1) Foundation 2) Upstream or Downstream faces 3) Galleries 4) Dam Crest. These locations are the commonly found critical location in the dam failure.
+From the real time monitored data a scheduled maintenance will be planned in which a semi-automatic drone can be integrated and the photos of the locations can be sent to the cloud and monitored. This can be the next phase of the project.
